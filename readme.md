@@ -21,9 +21,9 @@ pip install aws-sam-cli
 aws configure
 ```
 * I'm using [Homebrew](https://brew.sh/) for macOS. Use [Chocolatey](https://chocolatey.org/) if you are using Windows. Linux users, you know what to do.
-* If you are using Windows run the PowerShell script instead of the Shell script. They have the same parameteres.
+* If you are using Windows run the PowerShell script instead of the Shell script. They have the same parameters.
     * Will be: ``` build.ps1 --target=Package ``` instead of ``` sh build.sh --target=Package ```
-* Setup pip to be a soft link of pip3.
+* I setup my pip to be a soft link of pip3.
 
 ----
 
