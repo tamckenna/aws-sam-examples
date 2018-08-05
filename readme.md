@@ -2,7 +2,7 @@
 
 ### Development Environment Requirements
 * Dotnet Core SDK 2.0
-* Mono SDK
+* Mono SDK - _**macOS only**_
 * Java 8 JDK
 * Maven 3.5
 * AWS CLI
