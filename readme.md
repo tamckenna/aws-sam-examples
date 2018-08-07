@@ -33,7 +33,7 @@ aws configure
 ```
 appName=dotnet-app
 appRuntime=dotnetcore2.0
-s3PkgBucket=creoslate-package
+s3PkgBucket=s3-package-bucket
 ```
 
 #### Create/Build App
@@ -70,7 +70,7 @@ aws cloudformation deploy \
 ```
 appName=java-app
 appRuntime=java8
-s3PkgBucket=creoslate-package
+s3PkgBucket=s3-package-bucket
 ```
 
 #### Create/Build App
